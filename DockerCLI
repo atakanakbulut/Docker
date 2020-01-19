@@ -1,0 +1,19 @@
+### MY DOCKER CHEATSHEET ###
+
+docker images -> Show docker images its can run
+docker search name --> show avaible 
+docker search name --size|s --> show size and files
+docker pull imagename --> pull images to local
+docker inspect images --> show container info
+docker log container --> show container logs
+docker port container --> show public ports
+docker top container --> show running bin
+docker stats container --> show system resources
+docker rename oldcontainer newcontainer --> changes container name
+docker run image-name or image-id
+docker run --tty --interactive --hostname atakan ubuntu bash -> run docker images, set hostname, we will see command promp
+ 
+
+
+
+
